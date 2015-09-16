@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大沙門百一羯磨法
+#+DATE: 2015-08-30 20:40:58.575453
+#+PROPERTY: JUAN 0
